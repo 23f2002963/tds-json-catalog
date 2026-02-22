@@ -4,35 +4,198 @@
     "version": "6fcf12fd"
   },
   "products": [
-    { "id": 1, "name": "Smartphone X1", "category": "electronics", "price": 24999.99, "stock": 5, "rating": 4.5 },
-    { "id": 2, "name": "Laptop Pro 14", "category": "electronics", "price": 79999.50, "stock": 2, "rating": 4.7 },
-    { "id": 3, "name": "Wireless Earbuds", "category": "electronics", "price": 4999.75, "stock": 10, "rating": 4.3 },
-    { "id": 4, "name": "Bluetooth Speaker", "category": "electronics", "price": 6999.80, "stock": 4, "rating": 4.4 },
-
-    { "id": 5, "name": "Running Shoes", "category": "fashion", "price": 2999.00, "stock": 12, "rating": 4.2 },
-    { "id": 6, "name": "Leather Jacket", "category": "fashion", "price": 5999.00, "stock": 6, "rating": 4.6 },
-    { "id": 7, "name": "Denim Jeans", "category": "fashion", "price": 1999.00, "stock": 15, "rating": 4.1 },
-    { "id": 8, "name": "Cotton T-Shirt", "category": "fashion", "price": 799.00, "stock": 20, "rating": 4.0 },
-
-    { "id": 9, "name": "Office Chair", "category": "furniture", "price": 8999.00, "stock": 3, "rating": 4.5 },
-    { "id": 10, "name": "Wooden Desk", "category": "furniture", "price": 12999.00, "stock": 2, "rating": 4.6 },
-    { "id": 11, "name": "Bookshelf", "category": "furniture", "price": 4999.00, "stock": 5, "rating": 4.3 },
-    { "id": 12, "name": "Bedside Table", "category": "furniture", "price": 2999.00, "stock": 7, "rating": 4.2 },
-
-    { "id": 13, "name": "Cookware Set", "category": "home", "price": 3499.00, "stock": 8, "rating": 4.4 },
-    { "id": 14, "name": "Vacuum Cleaner", "category": "home", "price": 6999.00, "stock": 4, "rating": 4.5 },
-    { "id": 15, "name": "Water Purifier", "category": "home", "price": 11999.00, "stock": 3, "rating": 4.6 },
-    { "id": 16, "name": "Ceiling Fan", "category": "home", "price": 2499.00, "stock": 10, "rating": 4.1 },
-
-    { "id": 17, "name": "Cricket Bat", "category": "sports", "price": 1499.00, "stock": 9, "rating": 4.3 },
-    { "id": 18, "name": "Football", "category": "sports", "price": 899.00, "stock": 14, "rating": 4.2 },
-    { "id": 19, "name": "Yoga Mat", "category": "sports", "price": 799.00, "stock": 18, "rating": 4.4 },
-    { "id": 20, "name": "Dumbbell Set", "category": "sports", "price": 2999.00, "stock": 6, "rating": 4.5 },
-
-    { "id": 21, "name": "Novel Collection", "category": "books", "price": 1999.00, "stock": 11, "rating": 4.7 },
-    { "id": 22, "name": "Science Encyclopedia", "category": "books", "price": 2499.00, "stock": 5, "rating": 4.6 },
-    { "id": 23, "name": "Self Help Guide", "category": "books", "price": 999.00, "stock": 13, "rating": 4.2 },
-    { "id": 24, "name": "Programming in Python", "category": "books", "price": 2999.00, "stock": 4, "rating": 4.8 }
+  {
+    "id": "prod-6fcf12fd-001",
+    "name": "Premium Item 1",
+    "category": "books",
+    "price": 323.54,
+    "stock": 63,
+    "rating": 3.1
+  },
+  {
+    "id": "prod-6fcf12fd-002",
+    "name": "Pro Item 2",
+    "category": "electronics",
+    "price": 103.65,
+    "stock": 12,
+    "rating": 2.2
+  },
+  {
+    "id": "prod-6fcf12fd-003",
+    "name": "Basic Item 3",
+    "category": "sports",
+    "price": 155.19,
+    "stock": 37,
+    "rating": 2.7
+  },
+  {
+    "id": "prod-6fcf12fd-004",
+    "name": "Basic Item 4",
+    "category": "books",
+    "price": 73.28,
+    "stock": 10,
+    "rating": 3.9
+  },
+  {
+    "id": "prod-6fcf12fd-005",
+    "name": "Basic Item 5",
+    "category": "books",
+    "price": 31.15,
+    "stock": 197,
+    "rating": 4.3
+  },
+  {
+    "id": "prod-6fcf12fd-006",
+    "name": "Pro Item 6",
+    "category": "sports",
+    "price": 410.72,
+    "stock": 133,
+    "rating": 1.9
+  },
+  {
+    "id": "prod-6fcf12fd-007",
+    "name": "Elite Item 7",
+    "category": "home",
+    "price": 440.68,
+    "stock": 52,
+    "rating": 4.4
+  },
+  {
+    "id": "prod-6fcf12fd-008",
+    "name": "Pro Item 8",
+    "category": "clothing",
+    "price": 381.26,
+    "stock": 108,
+    "rating": 2.7
+  },
+  {
+    "id": "prod-6fcf12fd-009",
+    "name": "Basic Item 9",
+    "category": "books",
+    "price": 318.41,
+    "stock": 24,
+    "rating": 4.4
+  },
+  {
+    "id": "prod-6fcf12fd-010",
+    "name": "Premium Item 10",
+    "category": "home",
+    "price": 496.06,
+    "stock": 91,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-6fcf12fd-011",
+    "name": "Elite Item 11",
+    "category": "sports",
+    "price": 491.18,
+    "stock": 116,
+    "rating": 2.4
+  },
+  {
+    "id": "prod-6fcf12fd-012",
+    "name": "Elite Item 12",
+    "category": "clothing",
+    "price": 70.82,
+    "stock": 88,
+    "rating": 3.7
+  },
+  {
+    "id": "prod-6fcf12fd-013",
+    "name": "Pro Item 13",
+    "category": "books",
+    "price": 101.93,
+    "stock": 121,
+    "rating": 1
+  },
+  {
+    "id": "prod-6fcf12fd-014",
+    "name": "Pro Item 14",
+    "category": "electronics",
+    "price": 355.97,
+    "stock": 142,
+    "rating": 4
+  },
+  {
+    "id": "prod-6fcf12fd-015",
+    "name": "Elite Item 15",
+    "category": "electronics",
+    "price": 453.31,
+    "stock": 189,
+    "rating": 3.8
+  },
+  {
+    "id": "prod-6fcf12fd-016",
+    "name": "Premium Item 16",
+    "category": "books",
+    "price": 361.02,
+    "stock": 164,
+    "rating": 4.3
+  },
+  {
+    "id": "prod-6fcf12fd-017",
+    "name": "Basic Item 17",
+    "category": "home",
+    "price": 339.22,
+    "stock": 5,
+    "rating": 4.2
+  },
+  {
+    "id": "prod-6fcf12fd-018",
+    "name": "Pro Item 18",
+    "category": "sports",
+    "price": 119.61,
+    "stock": 2,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-6fcf12fd-019",
+    "name": "Elite Item 19",
+    "category": "sports",
+    "price": 438.67,
+    "stock": 172,
+    "rating": 1.3
+  },
+  {
+    "id": "prod-6fcf12fd-020",
+    "name": "Basic Item 20",
+    "category": "clothing",
+    "price": 239.66,
+    "stock": 26,
+    "rating": 4.4
+  },
+  {
+    "id": "prod-6fcf12fd-021",
+    "name": "Standard Item 21",
+    "category": "books",
+    "price": 288.05,
+    "stock": 153,
+    "rating": 2.1
+  },
+  {
+    "id": "prod-6fcf12fd-022",
+    "name": "Basic Item 22",
+    "category": "electronics",
+    "price": 435.62,
+    "stock": 16,
+    "rating": 3.7
+  },
+  {
+    "id": "prod-6fcf12fd-023",
+    "name": "Standard Item 23",
+    "category": "home",
+    "price": 150.88,
+    "stock": 98,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-6fcf12fd-024",
+    "name": "Pro Item 24",
+    "category": "books",
+    "price": 454.7,
+    "stock": 141,
+    "rating": 4.4
+  }
   ],
   "aggregations": {
     "electronics": {
